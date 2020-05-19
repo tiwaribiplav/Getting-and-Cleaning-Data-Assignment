@@ -10,6 +10,8 @@ Files
   
   CodeBook.md : It describes the variables, the data and the transformations performed to clean the data.
   
+  week4_peer_gettingdata.R : It describes the steps followed to download the data and get them formatted to be used in the next step i.e. run_analysis.R.
+  
   run_analysis.R : It performs the necessary 5 steps as specified in the course project for Getting and Cleaning Data. The steps are:
   
     1. Merges the training and the test sets to create one data set.
